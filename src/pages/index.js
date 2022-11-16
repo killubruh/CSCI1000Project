@@ -9,29 +9,27 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>About Me Project</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          CSCI 1000 GitHub Project
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Each team members page:{' '}
         </p>
-        <code>src/page/teamMemberName.js</code>
+        <code></code>
 
         <div className='grid'>
-          <a href='/ronBurgundy' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+          <a href='/ksuoo' className='card'>
+            <h3>Kaile's Page &rarr;</h3>
+            <p>Kaile's about me page</p>
           </a>
           <a
             href='https://github.com/wangalec/website-template'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>JEREMY VARGHESE&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Learn about jeremy
             </p>
           </a>
           <a
